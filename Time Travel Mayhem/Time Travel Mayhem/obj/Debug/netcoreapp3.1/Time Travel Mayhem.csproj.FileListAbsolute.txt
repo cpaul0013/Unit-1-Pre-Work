@@ -1,0 +1,14 @@
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\bin\Debug\netcoreapp3.1\Time Travel Mayhem.exe
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\bin\Debug\netcoreapp3.1\Time Travel Mayhem.deps.json
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\bin\Debug\netcoreapp3.1\Time Travel Mayhem.runtimeconfig.json
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\bin\Debug\netcoreapp3.1\Time Travel Mayhem.runtimeconfig.dev.json
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\bin\Debug\netcoreapp3.1\Time Travel Mayhem.dll
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\bin\Debug\netcoreapp3.1\Time Travel Mayhem.pdb
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\obj\Debug\netcoreapp3.1\Time Travel Mayhem.csproj.AssemblyReference.cache
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\obj\Debug\netcoreapp3.1\Time Travel Mayhem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\obj\Debug\netcoreapp3.1\Time Travel Mayhem.AssemblyInfoInputs.cache
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\obj\Debug\netcoreapp3.1\Time Travel Mayhem.AssemblyInfo.cs
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\obj\Debug\netcoreapp3.1\Time Travel Mayhem.csproj.CoreCompileInputs.cache
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\obj\Debug\netcoreapp3.1\Time Travel Mayhem.dll
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\obj\Debug\netcoreapp3.1\Time Travel Mayhem.pdb
+C:\Users\cpaul\source\repos\Time Travel Mayhem\Time Travel Mayhem\obj\Debug\netcoreapp3.1\Time Travel Mayhem.genruntimeconfig.cache
